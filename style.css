@@ -1,0 +1,26 @@
+
+
+nav li { display: inline-block }
+
+nav li { border: 2px Solid navy }
+
+nav li { padding: 6px;
+	    margin: 5px;
+	    background: white }
+
+a { color: navy;
+    text-decoration: none }
+a:hover { color: cyan }
+
+
+
+h1 { color: Navy;
+	font-size: 300% }
+
+h1 { border-bottom: 8px solid navy }
+
+body { background: Lightgray;
+		color: navy;
+		font-size: 14pt; }
+		
+	
